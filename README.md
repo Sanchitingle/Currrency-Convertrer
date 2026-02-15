@@ -1,2 +1,19 @@
-# Currrency-Convertrer
-Developed a responsive Currency Converter web application using HTML, CSS, and JavaScript. Integrated a real-time exchange rate API using Fetch API and async/await to perform live currency conversions. Implemented DOM manipulation and clean UI design for better user experience.
+# 💱 Currency Converter Web App
+
+A responsive Currency Converter web application built using HTML, CSS, and JavaScript.  
+It fetches real-time exchange rates using a public API and performs instant currency conversion.
+
+## 🚀 Features
+- Real-time currency conversion
+- Fetch API integration
+- Async/Await usage
+- Responsive UI
+
+## 🛠 Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Exchange Rate API
+
+## ▶️ How to Run
+Download the project and open index.html in your browser.
